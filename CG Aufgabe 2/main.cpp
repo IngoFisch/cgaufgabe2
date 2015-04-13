@@ -9,6 +9,7 @@
 
 using namespace std;
 
+//Wurstsuppe
 //Test2 oder fksjdölgvksjgfölsjgölgjsödlgjslöjk
 
 static double window_width_ = 1024;
