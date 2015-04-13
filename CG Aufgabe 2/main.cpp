@@ -9,7 +9,8 @@
 
 using namespace std;
 
-static double alpha_ = 0;
+//Test2 oder fksjdölgvksjgfölsjgölgjsödlgjslöjk
+
 static double window_width_ = 1024;
 static double window_height_ = 768;
 bool rotation = false;
